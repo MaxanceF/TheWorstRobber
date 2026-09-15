@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mforay/Documents/Unreal Projects/TheWorstRobber/Content/ThirdPerson/Blueprints/BP_Rope.uasset",
+				"C:/Users/mforay/Documents/Unreal Projects/TheWorstRobber/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/FF/DNDEGM5FJ2G5JAHW0K4CA7.uasset",
+				"C:/Users/mforay/Documents/Unreal Projects/TheWorstRobber/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/mforay/Documents/Unreal Projects/TheWorstRobber/Content/Input/Actions/IA_Interact.uasset",
+				"C:/Users/mforay/Documents/Unreal Projects/TheWorstRobber/Content/Input/IMC_Default.uasset",
+				"C:/Users/mforay/Documents/Unreal Projects/TheWorstRobber/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/VM/5LPJVVH0OZ8CZGJ032FT9R.uasset",
+				"C:/Users/mforay/Documents/Unreal Projects/TheWorstRobber/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/7A/EH9IP7CCHXBMQEIRY6KMD1.uasset",
+				"C:/Users/mforay/Documents/Unreal Projects/TheWorstRobber/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/PV/VKN20SPUUAQO1KQFDTJHNH.uasset",
+				"C:/Users/mforay/Documents/Unreal Projects/TheWorstRobber/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/FN/0948RYM5Y5IY3JLKAICNF9.uasset",
+				"C:/Users/mforay/Documents/Unreal Projects/TheWorstRobber/Content/Input/Actions/IA_Jump.uasset"
+			]
+		}
+	]
+}
