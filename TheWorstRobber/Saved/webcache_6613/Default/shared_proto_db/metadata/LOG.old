@@ -1,2 +1,3 @@
-2026/09/15-13:07:10.093 2f94 Creating DB C:\Users\mforay\Documents\Unreal Projects\TheWorstRobber\Saved\webcache_6613\Default\shared_proto_db\metadata since it was missing.
-2026/09/15-13:07:10.098 2f94 Reusing MANIFEST C:\Users\mforay\Documents\Unreal Projects\TheWorstRobber\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/09/16-13:08:12.473 6558 Reusing MANIFEST C:\Users\mforay\Documents\GitHub\TheWorstRobber\TheWorstRobber\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/09/16-13:08:12.480 6558 Recovering log #3
+2026/09/16-13:08:12.481 6558 Reusing old log C:\Users\mforay\Documents\GitHub\TheWorstRobber\TheWorstRobber\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 
